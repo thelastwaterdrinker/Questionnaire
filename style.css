@@ -107,6 +107,12 @@ p {
   text-align: center;
   font-weight: 700;
   text-transform: uppercase;
+  border: 1px solid #466995;
+}
+
+.answer:active {
+  background-color: #C0D6DF;
+  color: #ffffff;
 }
 
 a {
